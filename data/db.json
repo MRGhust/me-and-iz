@@ -1,0 +1,180 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "گیفت کارت",
+      "slug": "gift-cards",
+      "icon": "Gift",
+      "color": "#0ea5e9",
+      "items": [
+        {
+          "id": 101,
+          "name": "گیفت کارت آیتونز",
+          "description": "گیفت کارت اپل برای خرید از اپ استور و آیتونز",
+          "price": 500000,
+          "image": "/images/giftcards/apple.png",
+          "available": true
+        },
+        {
+          "id": 102,
+          "name": "گیفت کارت گوگل پلی",
+          "description": "گیفت کارت گوگل برای خرید از گوگل پلی",
+          "price": 480000,
+          "image": "/images/giftcards/google.png",
+          "available": true
+        },
+        {
+          "id": 103,
+          "name": "گیفت کارت آمازون",
+          "description": "گیفت کارت آمازون برای خرید از فروشگاه آمازون",
+          "price": 520000,
+          "image": "/images/giftcards/amazon.png",
+          "available": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "بازی‌ها",
+      "slug": "games",
+      "icon": "Gamepad2",
+      "color": "#d946ef",
+      "items": [
+        {
+          "id": 201,
+          "name": "کال آف دیوتی موبایل",
+          "description": "سی پی کال آف دیوتی موبایل با تحویل فوری",
+          "price": 150000,
+          "image": "/images/games/cod.png",
+          "available": true
+        },
+        {
+          "id": 202,
+          "name": "پابجی موبایل",
+          "description": "یوسی پابجی موبایل با بهترین قیمت",
+          "price": 140000,
+          "image": "/images/games/pubg.png",
+          "available": true
+        },
+        {
+          "id": 203,
+          "name": "کلش آف کلنز",
+          "description": "جم کلش آف کلنز با تحویل آنی",
+          "price": 120000,
+          "image": "/images/games/clash.png",
+          "available": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "اشتراک‌ها",
+      "slug": "subscriptions",
+      "icon": "Crown",
+      "color": "#f59e0b",
+      "items": [
+        {
+          "id": 301,
+          "name": "نتفلیکس",
+          "description": "اشتراک نتفلیکس با کیفیت 4K",
+          "price": 250000,
+          "image": "/images/subs/netflix.png",
+          "available": true
+        },
+        {
+          "id": 302,
+          "name": "اسپاتیفای",
+          "description": "اشتراک پریمیوم اسپاتیفای",
+          "price": 180000,
+          "image": "/images/subs/spotify.png",
+          "available": true
+        },
+        {
+          "id": 303,
+          "name": "یوتیوب پریمیوم",
+          "description": "اشتراک یوتیوب بدون تبلیغات",
+          "price": 200000,
+          "image": "/images/subs/youtube.png",
+          "available": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "ارز دیجیتال",
+      "slug": "crypto",
+      "icon": "Coins",
+      "color": "#10b981",
+      "items": [
+        {
+          "id": 401,
+          "name": "تتر USDT",
+          "description": "خرید و فروش تتر با نرخ روز",
+          "price": 60000,
+          "image": "/images/crypto/usdt.png",
+          "available": true
+        },
+        {
+          "id": 402,
+          "name": "بیت کوین",
+          "description": "خرید بیت کوین با کمترین کارمزد",
+          "price": 3500000000,
+          "image": "/images/crypto/btc.png",
+          "available": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "خدمات طراحی",
+      "slug": "design-services",
+      "icon": "Palette",
+      "color": "#ec4899",
+      "items": [
+        {
+          "id": 501,
+          "name": "طراحی لوگو",
+          "description": "طراحی لوگو حرفه‌ای برای کسب و کار شما",
+          "price": 800000,
+          "image": "/images/services/logo.png",
+          "available": true
+        },
+        {
+          "id": 502,
+          "name": "طراحی بنر",
+          "description": "طراحی بنرهای تبلیغاتی جذاب",
+          "price": 400000,
+          "image": "/images/services/banner.png",
+          "available": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "اکانت‌های ویژه",
+      "slug": "premium-accounts",
+      "icon": "Star",
+      "color": "#8b5cf6",
+      "items": [
+        {
+          "id": 601,
+          "name": "اکانت پرمیوم تلگرام",
+          "description": "اکانت تلگرام پرمیوم با تمام امکانات",
+          "price": 350000,
+          "image": "/images/accounts/telegram.png",
+          "available": true
+        },
+        {
+          "id": 602,
+          "name": "اکانت دیسکورد نیترو",
+          "description": "دیسکورد نیترو با قابلیت‌های کامل",
+          "price": 280000,
+          "image": "/images/accounts/discord.png",
+          "available": true
+        }
+      ]
+    }
+  ],
+  "users": [],
+  "orders": []
+}
